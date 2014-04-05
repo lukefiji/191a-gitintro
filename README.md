@@ -1,4 +1,3 @@
-191a-gitintro
-=============
+# 191a-gitintro
 
-Informatics 191 - Assignment 1
+Informatics 191A Spring 2014 introduction to git and GitHub assignment.
